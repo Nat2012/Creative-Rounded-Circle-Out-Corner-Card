@@ -180,4 +180,19 @@ body {
 .container .cards:nth-child(3) .icon::before,
 .container .cards:nth-child(3) .content::after{
     background: #eff0ff;
+
+}
+
+
+.container .cards:nth-child(4) .icon,
+.container .cards:nth-child(4) .icon::after,
+.container .cards:nth-child(4) .content::before,
+.container .cards:nth-child(4) .content .text a{
+    background: #e1ff01;
+}
+
+.container .cards:nth-child(4) .content,
+.container .cards:nth-child(4) .icon::before,
+.container .cards:nth-child(4) .content::after{
+    background: #ffffd9;
 }
